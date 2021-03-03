@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FooterDesignDemo/static/css/main.7176885d.chunk.css",
+    "main.js": "/FooterDesignDemo/static/js/main.4a45e1d4.chunk.js",
+    "main.js.map": "/FooterDesignDemo/static/js/main.4a45e1d4.chunk.js.map",
+    "runtime-main.js": "/FooterDesignDemo/static/js/runtime-main.c25e9c26.js",
+    "runtime-main.js.map": "/FooterDesignDemo/static/js/runtime-main.c25e9c26.js.map",
+    "static/js/2.d013611f.chunk.js": "/FooterDesignDemo/static/js/2.d013611f.chunk.js",
+    "static/js/2.d013611f.chunk.js.map": "/FooterDesignDemo/static/js/2.d013611f.chunk.js.map",
+    "index.html": "/FooterDesignDemo/index.html",
+    "static/css/main.7176885d.chunk.css.map": "/FooterDesignDemo/static/css/main.7176885d.chunk.css.map",
+    "static/js/2.d013611f.chunk.js.LICENSE.txt": "/FooterDesignDemo/static/js/2.d013611f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c25e9c26.js",
+    "static/js/2.d013611f.chunk.js",
+    "static/css/main.7176885d.chunk.css",
+    "static/js/main.4a45e1d4.chunk.js"
+  ]
+}
